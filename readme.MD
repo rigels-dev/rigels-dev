@@ -49,9 +49,8 @@ func main() {
 }
 ```
 
-- 🏦 Building and securing banking systems — from transaction switching to mobile apps
+- 🏦 Building and securing banking systems
 - 🎓 M.Sc. in Information Technology (AI specialization), Universitas Hasanuddin
-- 🚀 Founder of **CV. Alter Io** — personal software venture
 - 🔐 Into Android reverse engineering & mobile security on the side
 
 ---
