@@ -1,48 +1,94 @@
-# Rizaldy Setiawan Hasanuddin
+<h1 align="center">Rigels</h1>
+<h3 align="center">Senior Software Engineer</h3>
+
 <p align="center">
-  <a href="javascript:void(0)"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Tech+Enthusiast;Keep+Learning+ASAP&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Payment+Infrastructure+%7C+ISO+8583+%7C+BI-FAST;Mobile+Security+%26+Fraud+Detection;Observability+%26+Cloud-Native+Systems;Applied+AI+%2F+LLM+Integration" alt="Typing SVG" />
 </p>
-## About Me :eyes:
 
-```golang
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiphiparray"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rigeldevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/hiphipArray_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rigels-dev&style=for-the-badge&color=0e75b6&label=Profile+Views" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+```go
 package main
-import (
-	"fmt"
-)
 
-type Bio map[string]string
+import "fmt"
+
+type Engineer struct {
+	Name       string
+	Role       string
+	Experience string
+	Focus      []string
+	Learning   []string
+	AskMeAbout []string
+}
 
 func main() {
-	for r, s := range GetBio() {
-		fmt.Printf("%+v: %+v\n", r, s)
+	rigel := Engineer{
+		Name:       "Rigel",
+		Role:       "Senior Software Engineer @ a regional bank in Indonesia",
+		Experience: "9+ years",
+		Focus: []string{
+			"Payment infrastructure (ISO 8583, BI-FAST, switching)",
+			"Mobile banking security",
+			"Fraud detection systems",
+			"Observability & DevOps",
+		},
+		Learning:   []string{"Kubernetes", "gRPC microservices", "PyTorch", "LLM agents"},
+		AskMeAbout: []string{"Go", "Python", "Laravel", "Software Architecture", "IoT", "AI"},
 	}
-}
 
-func MyBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "Just a person who like to code",
-		"- 🔭 I’m currently working at":      "Local Bank as Software Engineer",
-		"- 🌱 I’m currently learning":        "Docker, K8s, Golang, PostgreSQL, RabbitMQ, PyTorch",
-		"- 👯 I’m looking to collaborate on": "Python, Golang, PHP, JS, Dart and Docker",
-		"- 💬 Ask me about":                  "Python, PHP, SQL, Software Design & Architecture, Internet Of Things, AI"
-	}
+	fmt.Printf("%+v\n", rigel)
 }
 ```
-<!--
-## My Statistic :chart_with_upwards_trend:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eunoia-code&show_icons=true&theme=tokyonight" alt="eunoia-code's stats" /></div>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunoia-code&theme=tokyonight" alt="mystreak"/></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia-code&theme=tokyonight&layout=compact" alt="eunoia-code's top langs" /></div>
--->
-<!-- <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=eunoia-code&theme=react-dark" alt="eunoia-code's top langs" /></div> -->
 
-## Contact me :telephone_receiver:
-[![Gmail Badge](https://img.shields.io/badge/-rigeldevs@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:-rsh.newarray@gmail.com)](-rigeldevs@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-hiphipArray_-1d9bf0?style=flat-roundedrectangle&logo=twitter&logoColor=white&link=https://www.instagram.com/hiphipArray_/)](https://www.twitter.com/hiphipArray_/)
-[![Linkedin Badge](https://img.shields.io/badge/-Rizaldy_Setiawan_Hasanuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiphipArray)](https://www.linkedin.com/in/hiphipArray)
-[![Discord Badge](https://img.shields.io/badge/-Eunoia-5663F7?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/#eunoia#9735)
+- 🏦 Building and securing banking systems — from transaction switching to mobile apps
+- 🎓 M.Sc. in Information Technology (AI specialization), Universitas Hasanuddin
+- 🚀 Founder of **CV. Alter Io** — personal software venture
+- 🔐 Into Android reverse engineering & mobile security on the side
 
-------
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=eunoia-code) -->
+---
 
-Last Edited on: 29/02/2024
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,php,laravel,js,react,nodejs,dart&perline=8" />
+</p>
+
+**Infra, Data & Observability**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,cloudflare,postgres,rabbitmq,grafana,linux&perline=8" />
+</p>
+
+**AI / ML**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rigels-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigels-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rigels-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>"Keep learning, keep shipping."</i></p>
