@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Payment+Infrastructure+%7C+ISO+8583+%7C+BI-FAST;Mobile+Security+%26+Fraud+Detection;Observability+%26+Cloud-Native+Systems;Applied+AI+%2F+LLM+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Payment+Infrastructure;Mobile+Security+%26+Fraud+Detection;Observability+%26+Cloud-Native+Systems;Applied+AI+%2F+LLM+Integration" alt="Typing SVG" />
 </p>
 
 <p align="center">
